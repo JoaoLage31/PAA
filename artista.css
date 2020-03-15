@@ -1,0 +1,107 @@
+.artista-info{
+    width: 50%;
+    overflow: auto;
+    margin-top: 100px;
+    float: left;
+    margin-bottom: 200px;
+}
+
+.mapfloat{
+    float: left;
+width: 50%;
+}
+
+.artista-detalhe-info{
+    overflow: auto;
+    width: 100%;
+}
+
+.info-local{
+    float: left;
+    margin-right: 70px;
+}
+
+.info-horas{
+    float: left;
+}
+
+
+.info-local h1{
+    font-family: petitabold;
+    font-size: 16px;
+    color: rgba(234, 80, 72, 1);
+    font-weight: normal;
+    margin-bottom: 7px;
+}
+
+.info-local p{
+    font-family:hind;
+    font-size: 15px;
+    font-weight: normal;
+}
+
+.info-horas h1{
+       font-family: petitabold;
+    font-size: 16px;
+    color: rgba(234, 80, 72, 1);
+    font-weight: normal;
+    margin-bottom: 7px;
+}
+
+.info-horas p{
+    font-family: hind;
+    font-size: 15px;
+}
+
+.sobre-artista{
+    width: 100%;
+    margin-top: 75px;
+}
+
+.sobre-artista h1{
+     font-family: petitabold;
+    font-size: 16px;
+    color: rgba(234, 80, 72, 1);
+    font-weight: normal;
+    margin-bottom: 7px;
+}
+
+.sobre-artista p{
+    font-family: hind;
+    font-size: 15px;
+    line-height: 26px;
+    margin-bottom: 7px;
+}
+
+#map{
+    width: 75%;
+    float: right;
+    cursor: pointer;
+}
+
+.titulobanda{
+    position: absolute;
+    width: 100%;
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: 30%;
+}
+
+.titulobanda p{
+    color: #ffffff;
+    font-family: title-home;
+    font-size: 55px;
+    text-align: center;
+}
+
+.vids{
+    width: 100%;
+    margin-top: 290px;
+    justify-content: space-between;
+    display: flex;
+}
+
+.musica{
+    width: 43%;
+    height: 300px;
+}

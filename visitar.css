@@ -1,0 +1,328 @@
+.division{
+    width: 50%;
+    float: left;
+}
+
+.intro{
+    padding-top: 150px;
+    padding-bottom: 150px;
+}
+
+.row2{
+    background-color: rgba(226, 226, 225, .4);
+    padding-top: 80px;
+    padding-bottom: 80px;
+}
+
+.row2branco{
+    background-color: #ffffff;
+    padding-top: 80px;
+    padding-bottom: 80px;
+}
+.include{
+    overflow: auto;
+}
+
+.visitar-imagem{
+    width: 85%;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.imagem-do-top{
+    width: 100%;
+}
+
+.number-top{
+    width: 60px;
+    height: 60px;
+    background-color: rgba(234, 80, 72, 1);
+    float: left;
+}
+
+.number-top p{
+    color:#ffffff;
+    padding-top: 19px;
+    width: 20px;
+    font-family: hind;
+    font-size: 20px;
+    text-align: center;
+    margin: auto;
+}
+
+.title-top{
+    float: left;
+    padding-top: 16px;
+    padding-left: 20px;
+}
+
+.title-top h2{
+    color:rgba(234, 80, 72, 1);
+    font-family: petitabold;
+    font-size: 20px;
+    font-weight: normal;
+}
+
+.titulo-side{
+    width: 100%;
+    float: left;
+}
+
+.text-top-cont{
+    float: left;
+    width: 90%;
+    margin-top: 30px;
+}
+
+.text-top-cont p{
+    font-family: hind;
+    margin-bottom: 15px;
+    line-height: 24px;
+    font-size: 16px;
+}
+
+.text-top-cont br{
+    margin-bottom: 10px;
+}
+
+.oquefazer{
+    text-align: center;
+    margin-top: 45px;
+    clear: both;
+    width: 200px;
+    margin-right: auto;
+    margin-left: auto;
+    overflow: auto;
+}
+
+.oquefazer h2{
+    margin-top: 20px;
+    color:rgba(234, 80, 72, 1);
+    font-family: hind;
+    font-weight: normal;
+}
+
+.o-que-fazer-row{
+    width:96%;
+    margin: auto;
+    overflow: auto;
+    margin-top: 52px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.o-que-fazer-exemplos{
+    width: 27%;
+    float: left;
+    margin-right: 1.5%;
+    margin-left: 1.5%;
+}
+
+.separation{
+    width: 1px;
+    background-color: rgba(234, 80, 72, 1);
+    float: left;
+}
+
+.exmplos-espaco{
+    height: 120px;
+}
+
+.exmplos-espaco p{
+    font-family: hind;
+    font-weight: normal;
+    font-size: 16px;
+    margin-top: 10px;
+    margin-right: 5px;
+    margin-left: 5px;
+    margin-bottom: 30px;
+}
+
+.exmplos-espaco h4{
+    color: rgba(234, 80, 72, 1);
+    font-family: petitabold;
+    font-size: 17px;
+    font-weight: normal;
+    margin-right: 5px;
+    margin-left: 5px;
+    margin-bottom: 15px;
+}
+
+.info-fazer{
+    overflow: auto;
+    margin-top: 12px;
+}
+
+.icons-fazer{
+    float: left;
+     margin-right: 15px;
+}
+.info-fazer p{
+    float: left;
+    font-family: hind;
+    font-size: 14px;
+}
+
+.left{
+    width: 100%;
+    float: left;
+}
+
+
+/* AMARELO */
+
+.number-top-amarelo{
+    width: 60px;
+    height: 60px;
+    background-color: rgba(218, 190, 47, 1);
+    float: left;
+}
+
+.number-top-amarelo p{
+    color:#ffffff;
+    padding-top: 19px;
+    width: 20px;
+    font-family: hind;
+    font-size: 20px;
+    text-align: center;
+    margin: auto;
+}
+
+.title-top-amarelo{
+    float: left;
+    padding-top: 16px;
+    padding-left: 20px;
+}
+
+.title-top-amarelo h2{
+    color:rgba(218, 190, 47, 1);
+    font-family: petitabold;
+    font-size: 20px;
+    font-weight: normal;
+}
+
+.separation-amarelo{
+    width: 1px;
+    background-color:rgba(218, 190, 47, 1);
+    float: left;
+}
+
+.oquefazer-amarelo{
+    text-align: center;
+    margin-top: 45px;
+    clear: both;
+    width: 200px;
+    margin-right: auto;
+    margin-left: auto;
+    overflow: auto;
+}
+
+.oquefazer-amarelo h2{
+    margin-top: 20px;
+    color:rgba(218, 190, 47, 1);
+    font-family: hind;
+    font-weight: normal;
+}
+
+.exmplos-espaco-amarelo{
+    height: 120px;
+}
+
+.exmplos-espaco-amarelo p{
+    font-family: hind;
+    font-weight: normal;
+    font-size: 16px;
+    margin-top: 10px;
+    margin-right: 5px;
+    margin-left: 5px;
+    margin-bottom: 30px;
+}
+
+.exmplos-espaco-amarelo h4{
+    color: rgba(218, 190, 47, 1);
+    font-family: petitabold;
+    font-size: 17px;
+    font-weight: normal;
+    margin-right: 5px;
+    margin-left: 5px;
+    margin-bottom: 15px;
+}
+
+/* VERDE */
+
+.number-top-verde{
+    width: 60px;
+    height: 60px;
+    background-color: rgba(107, 181, 64, 1);
+    float: left;
+}
+
+.number-top-verde p{
+    color:#ffffff;
+    padding-top: 19px;
+    width: 20px;
+    font-family: hind;
+    font-size: 20px;
+    text-align: center;
+    margin: auto;
+}
+
+.title-top-verde{
+    float: left;
+    padding-top: 16px;
+    padding-left: 20px;
+}
+
+.title-top-verde h2{
+    color:rgba(107, 181, 64, 1);
+    font-family: petitabold;
+    font-size: 20px;
+    font-weight: normal;
+}
+
+.separation-verde{
+    width: 1px;
+    background-color:rgba(107, 181, 64, 1);
+    float: left;
+}
+
+.oquefazer-verde{
+    text-align: center;
+    margin-top: 45px;
+    clear: both;
+    width: 200px;
+    margin-right: auto;
+    margin-left: auto;
+    overflow: auto;
+}
+
+.oquefazer-verde h2{
+    margin-top: 20px;
+    color:rgba(107, 181, 64, 1);
+    font-family: hind;
+    font-weight: normal;
+}
+
+.exmplos-espaco-verde{
+    height: 120px;
+}
+
+.exmplos-espaco-verde p{
+    font-family: hind;
+    font-weight: normal;
+    font-size: 16px;
+    margin-top: 10px;
+    margin-right: 5px;
+    margin-left: 5px;
+    margin-bottom: 30px;
+}
+
+.exmplos-espaco-verde h4{
+    color:rgba(107, 181, 64, 1);
+    font-family: petitabold;
+    font-size: 17px;
+    font-weight: normal;
+    margin-right: 5px;
+    margin-left: 5px;
+    margin-bottom: 15px;
+}

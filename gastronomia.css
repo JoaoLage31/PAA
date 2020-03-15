@@ -1,0 +1,98 @@
+.ementa{
+    width: 22%;
+    /*! float: left; */
+}
+
+.meio{
+    overflow: auto;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    display: flex;
+    margin-top: 130px;
+}
+
+.amarelo{
+    background-color:#EFEFEF;
+    margin-bottom: 30px;
+
+}
+
+.vermelho{
+    background-color: #EFEFEF;
+    margin-bottom: 30px;
+
+}
+.verde{
+    background-color:#EFEFEF;
+    margin-bottom: 30px;
+}
+
+.imagens-da-comida{
+    width: 100%;
+    text-align: center;
+}
+
+.info-ementa{
+    padding: 25px;
+  
+}
+
+.info-ementa a{
+    text-decoration: none;
+    color: black;
+}
+
+.info-ementa h4{
+    font-family: title-home;
+    font-size:20px;
+    padding-bottom: 15px;
+    font-weight: normal;
+}
+
+.amarelo h4:hover{
+    color:rgba(218, 190, 47, 1);
+    cursor: pointer;
+}
+
+.verde h4:hover{
+    color:rgba(107, 181, 64, 1);
+    cursor: pointer;
+}
+
+.vermelho h4:hover{
+    color:rgba(234, 80, 72, 1);
+    cursor: pointer;
+}
+
+.ementa-first p{
+    font-family: hind;
+    font-size: 16px;
+    padding-bottom:5px;
+}
+
+.ementa-first{
+    overflow: auto;
+    margin-bottom: 16px;
+}
+
+.ementa-second{
+    overflow: auto;
+}
+
+.ementa-second p{
+        font-family: petitalight;
+    font-size: 15px;
+    padding-bottom:5px;
+}
+
+.localizacao{
+    width: 80%;
+    margin: auto;
+}
+
+.gastronomia-icons{
+    width:15px;
+    margin-right: 5px;
+    padding-bottom: 10px;
+}
+

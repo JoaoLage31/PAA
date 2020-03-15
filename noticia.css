@@ -1,0 +1,257 @@
+.noticias-meio{
+    width: 90%;
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    margin: auto;
+    margin-top: 75px;
+}
+
+.noticias-meio-nao{
+    width: 90%;
+    display: flex;
+    justify-content: space-between;
+    margin: auto;
+    margin-top: 75px;
+}
+
+.noticias-meio-related{
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    margin: auto;
+    margin-top: 75px;
+}
+
+.imagem-da-noticia-pouco{
+    display: flex;
+}
+
+.noticias-pequenas{
+       width:100%;
+    display: flex;
+    justify-content: space-between;
+    margin: auto;
+    margin-top: 75px;
+}
+
+.noticias-pequenas-detalhe{
+       width:100%;
+    display: flex;
+    justify-content: space-between;
+    margin: auto;
+    margin-top: 50px;
+}
+
+.relacionadas h3{
+    font-family: petitabold;
+    font-weight: normal;
+    font-size: 16px;
+    color: rgba(42, 44, 111, 1);
+    margin-top: 100px;
+}
+
+.noticia-relevante{
+    width: 43%;
+    overflow: auto;
+    cursor: pointer;
+    margin-right: 7px;
+    margin-left: 7px;
+    
+}
+
+.noticia-pouco{
+    width:30%;
+    overflow: auto;
+    cursor: pointer;
+}
+
+.noticia-imagem{
+    width: 100%;
+}
+
+
+
+.noticia-dia-pouco{
+    width: 20%;
+    float: left;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    background-color: #E4E4E4;
+}
+
+.noticia-texto{
+    width: 100%;
+    float: left;
+    background-color: #EFEFEF;
+}
+
+.noticia-relevante a{
+    text-decoration: none;
+}
+
+.noticia-texto p:nth-of-type(1){
+    font-family: petitalight;
+    font-size: 17px;
+    text-align: center;
+    margin-bottom: 10px;
+    color: #2D2D2C;
+}
+
+.noticia-texto p:nth-of-type(3){
+    font-family: hind;
+    font-size: 16px;
+    text-align: center;
+    margin-bottom: 20px;
+    color:#2D2D2C;
+    line-height: 29px;
+}
+
+.noticia-texto p:nth-of-type(2){
+    font-family:title-home;
+    font-size: 23px;
+    text-align: center;
+    padding-bottom: 20px
+}
+
+.noticia-verde  p:nth-of-type(2){
+    color:rgba(107, 181, 64, 1);
+}
+
+.noticia-vermelha p:nth-of-type(2){
+    color: rgba(234, 80, 72, 1);
+}
+
+.noticia-amarelo p:nth-of-type(2){
+    color:rgba(218, 190, 47, 1);
+}
+
+.noticia-texto-pouco{
+    width: 80%;
+    float: left;
+    background-color: rgba(234, 80, 72, 1);
+}
+
+
+.noticia-texto-pouco p:first-of-type{
+    color:#ffffff;
+    font-family: petitalight;
+    font-size: 18px;
+    margin-bottom: 10px;
+}
+
+
+.noticia-texto-pouco p:nth-of-type(2){
+    color:#ffffff;
+    font-family: hind;
+    font-size: 15px;
+}
+
+.noticia-relevante:hover .noticia-imagem {
+    transform: scale(1.2);
+    -moz-transition:0.9s;
+    -webkit-transition:0.9s;
+    -o-transition:0.9s;
+}
+
+.imagem-da-noticia{
+    width: 100%;
+    display: flex;
+    overflow: hidden;
+}
+
+
+.noticia-dia-pouco p:first-of-type{
+    font-size: 19px;
+    font-family:hind;
+    text-align: center;
+    color:rgba(234, 80, 72, 1);
+}
+
+
+
+.noticia-dia-pouco p:nth-of-type(2){
+    font-family: hind;
+    font-size: 15px;
+    text-align: center;
+    color: rgba(234, 80, 72, 1);
+    
+}
+
+.noticia-sitio{
+    padding: 35px;
+}
+
+
+
+
+.imagem-noticia-individual{
+    width: 50%;
+    float: left;
+      
+}
+
+.noticia-individual{
+      margin-top: 100px;
+    width: 100%;
+    overflow: auto;
+}
+
+.texto-position h1{
+    font-family:title-home;
+    color:rgba(234, 80, 72, 1);
+    font-size: 25px;
+    margin-bottom: 5px;
+    font-weight: normal;
+}
+
+.texto-position h2{
+    font-family: hind;
+    color:rgba(234, 80, 72, 1);
+    font-size: 15px;
+    margin-bottom: 25px;
+    font-weight: normal;
+}
+.texto-position p{
+    font-family:hind;
+    font-size: 16px;
+    line-height: 22px;
+    
+}
+.texto-position br{
+    margin-bottom: 10px;
+}
+
+.texto-detalhe{
+    width: 50%;
+    float: left;
+}
+
+
+.texto-position{
+    width: 90%;
+    float: right;
+}
+
+
+
+
+.news{
+    width: 20%;
+    margin: auto;
+    margin-top: 100px;
+}
+
+.news h1{
+    color: rgba(42, 44, 111, 1);
+    font-size: 40px;
+    font-family: title-home;
+    text-align: center;
+}
+
+.news h2{
+    color: rgba(42, 44, 111, 1);
+    font-size: 30px;
+    font-family: title-home;
+    text-align: center;
+}
